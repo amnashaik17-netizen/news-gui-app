@@ -36,3 +36,5 @@ This is a Python-based GUI application that fetches live news headlines from BBC
 * Add images for news
 * Multiple news sources (NDTV, TOI)
 * Search functionality
+* <img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/3f4a2500-1c1e-4d1c-a786-f474153268a4" />
+
